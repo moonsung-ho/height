@@ -1,8 +1,7 @@
 function result() {
   const father = document.getElementById("father").value;
   const mother = document.getElementById("mother").value;
-  const result = document.getElementById("result");
-  const height = parseInt(mother) + parseInt(father);
+  const height = parseFloat(mother) + parseFloat(father);
 
   if (height >= 1) {
     if (document.getElementById("gender").checked) {

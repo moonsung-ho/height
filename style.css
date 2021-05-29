@@ -30,8 +30,9 @@
   text-align: center;
 }
 
-#gender, #gender2 {
-    width: auto;
+#gender,
+#gender2 {
+  width: auto;
 }
 
 #man {
