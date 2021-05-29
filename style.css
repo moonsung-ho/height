@@ -1,0 +1,84 @@
+@font-face {
+  font-family: "recipe";
+  src: url("https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_2001@1.1/Recipekorea.woff")
+    format("woff");
+  font-weight: normal;
+  font-style: normal;
+}
+@font-face {
+  font-family: "spotlight";
+  src: url("https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts-20-12@1.0/Y_Spotlight.woff")
+    format("woff");
+  font-weight: normal;
+  font-style: normal;
+}
+@font-face {
+  font-family: "ROKABold";
+  src: url("https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_2104@1.1/ROKABold.woff")
+    format("woff");
+  font-weight: normal;
+  font-style: normal;
+}
+@font-face {
+  font-family: "ImcreSoojin";
+  src: url("https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_20-04@2.3/ImcreSoojin.woff")
+    format("woff");
+  font-weight: normal;
+  font-style: normal;
+}
+* {
+  text-align: center;
+}
+
+#gender, #gender2 {
+    width: auto;
+}
+
+#man {
+  font-family: ROKABold, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto,
+    Oxygen, Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
+}
+#woman {
+  font-family: ImcreSoojin, -apple-system, BlinkMacSystemFont, "Segoe UI",
+    Roboto, Oxygen, Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
+}
+
+h1 {
+  font-family: spotlight, recipe, -apple-system, BlinkMacSystemFont, "Segoe UI",
+    Roboto, Oxygen, Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
+}
+
+button {
+  border-radius: 100px;
+  border: none;
+  outline: none;
+  cursor: pointer;
+  margin-top: 50px;
+  width: 180px;
+  height: 50px;
+  font-size: 30pt;
+  background-color: rgb(255, 255, 255);
+  font-family: recipe, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto,
+    Oxygen, Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
+}
+input {
+  border: none;
+  border-bottom: 1px solid #999;
+  color: rgb(0, 0, 0);
+  background-color: initial;
+  outline: none;
+  padding: 30px 20px 20px;
+  font-family: spotlight;
+  font-size: 30px;
+  width: 200px;
+  cursor: pointer;
+}
+p {
+  font-family: recipe;
+  padding: 15px;
+  color: rgb(0, 0, 0);
+}
+a {
+  font-family: spotlight;
+  font-style: none;
+}
