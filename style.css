@@ -13,6 +13,13 @@
   font-style: normal;
 }
 @font-face {
+  font-family: "GmarketSansBold";
+  src: url("https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_2001@1.1/GmarketSansBold.woff")
+    format("woff");
+  font-weight: normal;
+  font-style: normal;
+}
+@font-face {
   font-family: "ROKABold";
   src: url("https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_2104@1.1/ROKABold.woff")
     format("woff");
@@ -69,7 +76,7 @@ input {
   background-color: initial;
   outline: none;
   padding: 30px 20px 20px;
-  font-family: spotlight;
+  font-family: GmarketSansBold;
   font-size: 30px;
   width: 200px;
   cursor: pointer;
