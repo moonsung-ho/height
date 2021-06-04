@@ -6,7 +6,7 @@ function result() {
   const height = parseFloat(mother) + parseFloat(father); //엄마키와 아빠키를 실수로 변환해서 더함
 
   if (height >= 1) {
-    if (height <= 300) {
+    if (height <= 300 || height >= 400) {
       swal("🙏제발🙏", "키를 제대로 입력해주세요", "warning");
     } else {
       if (document.getElementById("gender").checked) {
