@@ -9,7 +9,7 @@
 .notosanskr * {
   font-family: "Noto Sans KR", sans-serif;
 }
-@import url("https://fonts.googleapis.com/css?family=Black+Han+Sans:400");
+@import url('https://fonts.googleapis.com/css?family=Black+Han+Sans&display=swap&subset=korean');
 @font-face {
   font-family: "spotlight";
   src: url("https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts-20-12@1.0/Y_Spotlight.woff")
