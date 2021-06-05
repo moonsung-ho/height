@@ -10,10 +10,10 @@ function result() {
     } else {
       if (document.getElementById("gender").checked) {
         const heightn = height + 13;
-        swal("우와", `${heightn / 2}cm네요!`); //결과 alert
+        swal("오오", `${heightn / 2}cm네요!`); //결과 alert
       } else {
         const heightn = height - 13;
-        swal("와우", `${heightn / 2}cm네요!`); //결과 alert
+        swal("와와", `${heightn / 2}cm네요!`); //결과 alert
       }
     }
   } else {
