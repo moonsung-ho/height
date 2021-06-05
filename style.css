@@ -9,7 +9,7 @@
 .notosanskr * {
   font-family: "Noto Sans KR", sans-serif;
 }
-@import url('https://fonts.googleapis.com/css?family=Black+Han+Sans:400');
+@import url("https://fonts.googleapis.com/css?family=Black+Han+Sans:400");
 @font-face {
   font-family: "spotlight";
   src: url("https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts-20-12@1.0/Y_Spotlight.woff")
@@ -75,19 +75,26 @@ h1 {
   color: #0f0f0f;
 }
 
-button {
+#button {
   border-radius: 100px;
   border: none;
   outline: none;
   cursor: pointer;
   margin-top: 50px;
-  width: 180px;
+  width: 200px;
   height: 50px;
-  font-size: 30pt;
+  font-size: 35pt;
   color: #0f0f0f;
   background-color: rgb(255, 255, 255);
-  font-family: "Black Han Sans", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto,
-    Oxygen, Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
+  font-family: "Black Han Sans", -apple-system, BlinkMacSystemFont, "Segoe UI",
+    Roboto, Oxygen, Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
+}
+.confirm {
+  width: 200px;
+  height: 50px;
+  font-family: Noto Sans KR, -apple-system, BlinkMacSystemFont, "Segoe UI",
+    Roboto, Oxygen, Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif !important;
+  font-size: 20px !important;
 }
 input {
   border: none;
