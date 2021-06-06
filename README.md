@@ -1,7 +1,7 @@
 자신의 성인 키를 예상해 보세요.
 <a href="https://키.ml">고고!</a>
 <br>
-<img src="/demo_img.png">
+<img src="https://i.ibb.co/jZYkGWV/2021-06-06-10-56-24.png" alt="demo" border="0"></a>
 <br>
 # 사용된 폰트
 레코체 / 레시피코리아
