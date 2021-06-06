@@ -12,5 +12,5 @@ Y 너만을 비춤체 / KT
 Gmarket Sans M / Gmarket
 Gmarket Sans Bold / Gmarket
 강한육군 Bold / 대한민국 국군, 헤움
-산돌 삼립호빵체 Basic / SPC삼립, 산돌
+산돌 삼립호빵체 Basic / SPC삼립, 산돌
 아임크리수진체 / 발렌타인드림
