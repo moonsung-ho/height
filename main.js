@@ -12,11 +12,9 @@ function result() {
       if (document.getElementById("gender").checked) {
         const heightn = height + 13;
         swal("오오", `${heightn / 2}cm네요!`); //결과 alert
-alert(heightn/2)
       } else {
         const heightn = height - 13;
         swal("와와", `${heightn / 2}cm네요!`,); //결과 alert
-alert(heightn/2)
       }
     }
   } else {
